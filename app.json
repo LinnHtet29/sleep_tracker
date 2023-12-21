@@ -1,4 +1,5 @@
 {
-  "name": "Timer",
-  "displayName": "Timer"
+  "name": "sleep_tracker",
+  "displayName": "Sleep Tracker"
+  
 }
